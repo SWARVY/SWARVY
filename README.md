@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20HELLO%20%20&height=200&fontSize=100&descalign=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20HELLO%20%20&height=200&fontSize=100&descAlign=100)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact)](https://github.com/SWARVY/github-readme-stats)
 
 <div align="center">
