@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </div>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 <!--
 **SWARVY/SWARVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
