@@ -1,9 +1,12 @@
-### 안녕하세요 👋
-
-NBA와 게임을 즐기는 FE 개발자 지망생입니다!
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact)](https://github.com/SWARVY/github-readme-stats)
 
+## BLOG
+<div>
+  <a href="https://swarvy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=black"/></a>
+</div>
+
+
+## TOOLS
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
