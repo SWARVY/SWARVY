@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact)](https://github.com/SWARVY/github-readme-stats)
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 
 <!--
 **SWARVY/SWARVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
