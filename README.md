@@ -4,12 +4,13 @@
 
 <div align="center">
   <div>BLOG</div>
+  <br/>
   <div>
     <a href="https://swarvy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   </div>
-
-
+  <br/><br/>
   <div>TOOLS</div>
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
