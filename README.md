@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+NBA와 게임을 즐기는 FE 개발자 지망생입니다!
+
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+
 <!--
 **SWARVY/SWARVY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
