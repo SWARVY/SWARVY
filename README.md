@@ -5,7 +5,7 @@
   ---
 
   **2022.10 -**  
-  💡[INQ] Frontend Developer
+  💡[InQ] Frontend Developer
   
   **2022.10.26 - 2022.11.22**  
   🌱[Woowa-precourse] 5th
