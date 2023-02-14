@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&text=%20Caffhheine[@SWARVY]%20%20&height=200&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Caffhheine[@SWARVY]%20%20&height=200&fontSize=50&fontAlign=66)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact&theme=tokyonight)](https://github.com/SWARVY/github-readme-stats)
   
@@ -22,7 +22,7 @@
   </div>
   <br/>
 
-  ![Footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 </div>
   
 <!--
