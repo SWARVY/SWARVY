@@ -4,6 +4,9 @@
   
   ---
 
+  **2019.03 -**  
+  🏫[Kyonggi Univ.] Computer Engineering
+
   **2022.10 -**  
   💡[InQ] Frontend Developer
   
@@ -11,7 +14,7 @@
   🌱[Woowa-precourse] 5th
   
   **2023.01.09 - 2023.02.04**  
-  🌱[42SEOUL] Piscine Course (9-1)
+  🌱[42SEOUL] La Piscine (9-1)
   
   ---
   
@@ -42,7 +45,7 @@
         <a href="mailto:swarvy0826@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:swarvy0826@kyonggi.ac.kr"/></a>
         <a href="mailto:swarvy0826@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:swarvy0826@naver.com"/></a>
       </div><br/><br/>
-      <div><b>🪩BLOG & SNS🪩</b></div>
+      <div><b>🪩SOCIAL🪩</b></div>
       <br/>
       <div>
         <a href="https://swarvy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
@@ -53,7 +56,9 @@
       <div>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black"/>
+        <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=black"/>
         <br/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
         <img src="https://img.shields.io/badge/CSS3-31572B6?style=flat-square&logo=css3&logoColor=black"/>
