@@ -14,7 +14,7 @@
   🌱[Woowa-precourse] 5th
   
   **2023.01.09 - 2023.02.04**  
-  🌱[42SEOUL] La Piscine (9-1)
+  🌱[42SEOUL] Pisciner (9기 1차)
   
   ---
   
@@ -63,8 +63,15 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
         <img src="https://img.shields.io/badge/CSS3-31572B6?style=flat-square&logo=css3&logoColor=black"/>
         <img src="https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-      </div>
-      <br/>
+      </div><br/><br/>
+      <div>
+        <div><b>🎮PASTIMES🎮</b></div>
+        <br/>
+        <div>
+          <div><img src="https://img.shields.io/badge/F1-E10600?style=flat-square&logo=f1&logoColor=black"/> Mercedes-AMG Petronas ('23. 01 ~ )</div>
+          <div><img src="https://img.shields.io/badge/NBA-253B73?style=flat-square&logo=nba&logoColor=white"/> Oklahoma City Thunder ('20. 01 ~ )</div>
+        <div>
+      </div><br/>
   </div>
   
   ---
