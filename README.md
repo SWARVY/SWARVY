@@ -14,7 +14,7 @@
   🌱[Woowa-precourse] 5th
   
   **2023.01.09 - 2023.02.04**  
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/>[42SEOUL] Pisciner (9기 1차)
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/>[42SEOUL] Pisciner
   
   **2023.03.13 - BLACKHOLE**  
   <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/>[42SEOUL] Cadet
