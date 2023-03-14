@@ -67,8 +67,10 @@
         <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=black"/>
         <img src="https://img.shields.io/badge/Recoil-F26B00?style=flat-square&logo=react&logoColor=black"/>
         <br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
         <img src="https://img.shields.io/badge/CSS3-31572B6?style=flat-square&logo=css3&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
         <img src="https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
       </div><br/><br/>
       <div>
