@@ -55,7 +55,7 @@
         <a href="https://swarvy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
         <a href="https://www.instagram.com/caffhheine/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
       </div><br/><br/>
-      <div><b>📚TOOLS📚</b></div>
+      <div><b>📚CURRENTLY LEARNING📚</b></div>
       <br/>
       <div>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -63,6 +63,9 @@
         <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Recoil-F26B00?style=flat-square&logo=react&logoColor=black"/>
         <br/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
         <img src="https://img.shields.io/badge/CSS3-31572B6?style=flat-square&logo=css3&logoColor=black"/>
