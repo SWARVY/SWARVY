@@ -23,27 +23,7 @@
   ---
   
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=swarvy&show_icons=true&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=swarvy&hide_border=true&theme=tokyonight" alt="" />
-    </a>
-  </div><br/><br/><br/><br/><br/><br/><br/><br/>
-  
-  ---
-  
-  <br/>
-  <div>
-    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysawake0083"></img>
-    <img align="right" src="http://mazandi.herokuapp.com/api?handle=alwaysawake0083&theme=warm"></img>
-  </div><br/><br/><br/><br/><br/><br/><br/><br/>
-  
-  ---
-  
-  <div align="center">
-      <br/>
-      <div><b>📧EMAIL📧</b></div>
+          <div><b>📧EMAIL📧</b></div>
       <br/>
       <div>
         <a href="mailto:swarvy0826@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:swarvy0826@kyonggi.ac.kr"/></a>
@@ -82,6 +62,26 @@
         <div>
       </div><br/>
   </div>
+  
+  ---
+  
+  <br/>
+  <div>
+    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysawake0083"></img>
+    <img align="right" src="http://mazandi.herokuapp.com/api?handle=alwaysawake0083&theme=warm"></img>
+  </div><br/><br/><br/><br/><br/><br/><br/><br/>
+  
+  ---
+  
+  <div align="center">
+      <br/>
+     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=swarvy&show_icons=true&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=swarvy&hide_border=true&theme=tokyonight" alt="" />
+    </a>
+  </div><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
   
