@@ -3,6 +3,14 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HI👋🏻%20%20I'M%20%20SWARVY!&fontAlign=70&height=300&fontSize=50&animation=twinkling)
   
   ---
+  
+  <br/>
+  <div>
+    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysawake0083"></img>
+    <img align="right" src="http://mazandi.herokuapp.com/api?handle=alwaysawake0083&theme=warm"></img>
+  </div><br/><br/><br/><br/><br/><br/><br/><br/>
+  
+  ---
 
   **2019.03 -**  
   🏫[Kyonggi Univ.] Computer Engineering
@@ -62,26 +70,6 @@
         <div>
       </div><br/>
   </div>
-  
-  ---
-  
-  <br/>
-  <div>
-    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysawake0083"></img>
-    <img align="right" src="http://mazandi.herokuapp.com/api?handle=alwaysawake0083&theme=warm"></img>
-  </div><br/><br/><br/><br/><br/><br/><br/><br/>
-  
-  ---
-  
-  <div align="center">
-      <br/>
-     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=swarvy&show_icons=true&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=swarvy&hide_border=true&theme=tokyonight" alt="" />
-    </a>
-  </div><br/><br/><br/><br/><br/><br/><br/><br/>
   
   ---
   
