@@ -37,7 +37,7 @@
         <a href="mailto:swarvy0826@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:swarvy0826@kyonggi.ac.kr"/></a>
         <a href="mailto:swarvy0826@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:swarvy0826@naver.com"/></a>
       </div><br/><br/>
-      <div><b>🪩SOCIAL🪩</b></div>
+      <div><b>🌏SOCIAL🌏</b></div>
       <br/>
       <div>
         <a href="https://swarvy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
