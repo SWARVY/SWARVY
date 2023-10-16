@@ -2,11 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HI👋🏻%20%20I'M%20%20SWARVY!&fontAlign=70&height=300&fontSize=50&animation=twinkling)
   
-  ---
-  
   <div>
-      <div><b>📚CURRENTLY LEARNING📚</b></div>
-      <br/>
+      <div><b>📚 CURRENTLY LEARNING</b></div><br/>
       <div>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black"/>
@@ -25,8 +22,8 @@
       </div>
   </div>
 
-  ---
-
+  <div><b>💻 ACTIVITIES</b></div><br/>
+  
   |기간|활동|
   |---|---|
   |2019. 03 - |🏫[Kyonggi Univ.] Computer Engineering|
