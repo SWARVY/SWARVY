@@ -18,8 +18,8 @@
   
 |기간|활동|
 |---|---|
-|**2019. 03. 02 - 2024. 12. 31**|**🏫[Kyonggi Univ.]** Computer Engineering|
-|**2022. 10. 04 - 2024. 12. 31**|**💡[InQ]** Frontend Developer|
-|**2022. 10. 26 - 2022. 11. 22**|**🌱[Woowa-precourse]** 5th|
+|**2019. 03. 02 - 2024. 12. 31**|🏫 **[Kyonggi Univ.]** Computer Engineering|
+|**2022. 10. 04 - 2024. 12. 31**|💡 **[InQ]** Frontend Developer|
+|**2022. 10. 26 - 2022. 11. 22**|🌱 **[Woowa-precourse]** 5th|
 |**2023. 01. 09 - 2023. 02. 04**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Pisciner|
 |**2023. 03. 13 - 2023. 10. 03**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Cadet|
