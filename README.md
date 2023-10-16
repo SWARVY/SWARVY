@@ -1,7 +1,3 @@
-<div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HI👋🏻%20%20I'M%20%20SWARVY!&fontAlign=70&height=300&fontSize=50&animation=twinkling)
-  
   <div>
       <div><b>📚 CURRENTLY LEARNING</b></div><br/>
       <div>
@@ -20,7 +16,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
         <img src="https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
       </div>
-  </div>
+  </div><br/>
 
   <div><b>💻 ACTIVITIES</b></div><br/>
   
@@ -31,5 +27,3 @@
   |2022. 10. 26 - 2022. 11. 22|🌱[Woowa-precourse] 5th|
   |2023. 01. 09 - 2023. 02. 04| <img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>Pisciner|
   |2023. 03. 13 - 2023. 10. 03|<img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>Cadet|
-
-</div>
