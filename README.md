@@ -1,3 +1,9 @@
+### 🌠 FAVORITE LANGUAGE
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact&theme=highcontrast)
+
+
 ### 📚 CURRENTLY LEARNING
 <br/>
 <div>
