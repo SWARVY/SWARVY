@@ -1,7 +1,7 @@
 ### 🌠 FAVORITE LANGUAGE
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact&theme=gruvbox)
 
 
 ### 📚 CURRENTLY LEARNING
