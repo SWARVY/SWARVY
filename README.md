@@ -3,9 +3,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=compact&theme=gruvbox)
 
+<br/>
 
 ### 📚 CURRENTLY LEARNING
-
 <div>
   <h4>➬ Frontend</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 </div>
+
 <br/>
 
 ### 💻 ACTIVITIES
@@ -41,6 +42,8 @@
 |**2023. 01. 09 - 2023. 02. 04**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Pisciner|
 |**2023. 03. 13 - 2023. 10. 03**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Cadet|
 |**2024. 02. 02 - 2024. 08. 14**|☁️ **[9oormthon Training]** Fullstack 7th|
+
+<br/>
 
 ### 🎮 Solved.ac Stats
 <br/>
