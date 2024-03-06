@@ -1,8 +1,3 @@
-### 🎮 Solved.ac Stats
-<br/>
-
-![SWARVY's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alwaysawake0083)
-
 ### 🌠 FAVORITE LANGUAGE
 <br/>
 
@@ -47,3 +42,8 @@
 |**2023. 01. 09 - 2023. 02. 04**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Pisciner|
 |**2023. 03. 13 - 2023. 10. 03**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Cadet|
 |**2024. 02. 02 - 2024. 08. 14**|☁️ **[9oormthon Training]** Fullstack 7th|
+
+### 🎮 Solved.ac Stats
+<br/>
+
+![SWARVY's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alwaysawake0083)
