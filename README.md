@@ -8,7 +8,7 @@
   ### 🌠 FAVORITE LANGUAGE
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&theme=gruvbox)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=donut-vertical&theme=gruvbox)
   
   <br/>
   
