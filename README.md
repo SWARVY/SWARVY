@@ -5,14 +5,25 @@
 
 <div align='center'>
 
-  ### 🌠 FAVORITE LANGUAGE
+  <h3 align='start'> 🎮 STATS </h3>
+  <br/>
+
+  ![SWARVY's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alwaysawake0083)
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarvy&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=swarvy&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarvy&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  </a>
+  
+
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWARVY&layout=donut-vertical&theme=gruvbox)
-  
-  <br/>
-  
-  ### 📚 CURRENTLY LEARNING
+  <h3 align='start'>📚 CURRENTLY LEARNING</h3>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -31,7 +42,7 @@
   
   <br/>
   
-  ### 💻 ACTIVITIES
+  <h3 align='start'>💻 ACTIVITIES</h3>
   <br/>
     
   |기간|활동|
@@ -41,12 +52,5 @@
   |**2023. 01. 09 - 2023. 02. 04**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Pisciner|
   |**2023. 03. 13 - 2023. 10. 03**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Cadet|
   |**2024. 02. 02 - 2024. 08. 14**|☁️ **[9oormthon Training]** Fullstack 7th|
-  
-  <br/>
-  
-  ### 🎮 Solved.ac Stats
-  <br/>
-  
-  ![SWARVY's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alwaysawake0083)
 
 </div>
