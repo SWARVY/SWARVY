@@ -5,7 +5,7 @@
 <div align='center'>
 
   <details>
-  <summary>🌠 ABOUT ME</summary>
+  <summary>🌠 MORE ABOUT ME</summary>
   <h2>📚 CURRENTLY LEARNING</h2>
   <br/>
   <div>
