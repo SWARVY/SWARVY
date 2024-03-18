@@ -51,8 +51,9 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarvy&theme=ambient_gradient" width=94%/>
   </a>
-  <img src="https://github.com/swarvy/swarvy/blob/output/github-snake-dark.svg" width="100%">
-  
+
+  <img src="https://github.com/swarvy/swarvy/blob/output/mysnake.svg" width="100%">
+    
 </div>
 <br/><br/>
 
