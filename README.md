@@ -3,14 +3,15 @@
 <br/><br/>
 
 <div align='center'>
-
-  <a href="https://github.com/2jun0/github-pokemon-collection">
-    <img src="https://gitpokecol.org/pokemons/SWARVY?face=left" alt="SWARVY's GitHub Pokemon Collection"/>
-  </a>
-  <br/><br/><br/><br/>
-
   <details>
   <summary>🌠 MORE ABOUT ME</summary>
+  <div>
+    <h2>🎮 POKEMON</h2>
+    <br/>
+    <a href="https://github.com/2jun0/github-pokemon-collection">
+      <img src="https://gitpokecol.org/pokemons/SWARVY?face=left" alt="SWARVY's GitHub Pokemon Collection"/>
+    </a>
+  </div>
   <h2>📚 CURRENTLY LEARNING</h2>
   <br/>
   <div>
