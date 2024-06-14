@@ -6,7 +6,7 @@
   <details>
   <summary>🌠 MORE ABOUT ME</summary>
   <div>
-    <h2>🎮 POKEMON</h2>
+    <h2>🎮 PREVIEW</h2>
     <br/>
     <a href="https://github.com/2jun0/github-pokemon-collection">
       <img src="https://gitpokecol.org/pokemons/SWARVY?face=left" alt="SWARVY's GitHub Pokemon Collection"/>
@@ -23,11 +23,17 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-31572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   </div>
 
   <h2>💻 ACTIVITIES</h2>
@@ -39,7 +45,8 @@
   |**2022. 10. 04 - 2024. 12. 31**|💡 **[InQ]** Frontend Developer|
   |**2023. 01. 09 - 2023. 02. 04**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Pisciner|
   |**2023. 03. 13 - 2023. 10. 03**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Cadet|
-
+  |**2024. 06. 01 - 2024. 12. 31**|⚙️ **[CLAB]** Coreteam 2nd|
+  
   <h2>🎮 Solved.ac</h2>
   <br/>
   
