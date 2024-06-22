@@ -8,11 +8,12 @@
 
 |DATE|ACTIVITY|
 |---|---|
-|**2019. 03. 02 - 2024. 12. 31**|🏫 **[Kyonggi Univ.]** Computer Engineering|
-|**2022. 10. 04 - 2024. 12. 31**|💡 **[InQ]** Frontend Developer|
+|**2019. 03. 02 - current**|🏫 **[Kyonggi Univ.]** Computer Engineering|
+|**2022. 10. 04 - current**|💡 **[InQ]** Frontend Developer|
 |**2023. 01. 09 - 2023. 02. 04**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Pisciner|
 |**2023. 03. 13 - 2023. 10. 03**|<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> **[42SEOUL]** Cadet|
-|**2024. 06. 01 - 2024. 12. 31**|⚙️ **[CLAB]** Coreteam 2nd|
+|**2024. 04. 01 - current**|🎡 **[Attractorrr]** Frontend Lead|
+|**2024. 06. 01 - current**|⚙️ **[CLAB]** Coreteam 2nd|
 
 ### 📊 STAT
 
