@@ -4,7 +4,7 @@
 
 <div align='left'>
 
-### 🎥 RECORD
+## 🎥 RECORD
 
 <div align="left">
 
@@ -19,7 +19,9 @@
 
 </div>
 
-### 📊 STAT
+<br/>
+
+## 📊 STAT
 
 <div align="left">
 
@@ -29,7 +31,9 @@
 
 </div>
 
-### 🏅 PS RANK
+<br/>
+
+## 🏅 PS RANK
 
 <div align="left">
     
@@ -39,7 +43,7 @@
 
 </div>
     
-<br/>
+<br/><br/>
 
 <div align='center'>
 
