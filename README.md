@@ -10,8 +10,10 @@
 
 
 <br/><details>
-<summary>🎖️ Statistics</summary>
+<summary>More</summary>
 
 ![SWARVY's trophies](https://github-profile-trophy.vercel.app/?username=SWARVY&column=4&margin-w=7&margin-h=7)
+
+[![SWARVY_GITHUB](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FSWARVY?color=purple&label=SWARVY_GITHUB&size=small)](https://myhits.vercel.app)
 
 </details>
